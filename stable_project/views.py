@@ -8,3 +8,8 @@ from django.utils import timezone
 
 class Home(TemplateView):
     template_name = "index.html"
+
+
+drowning in code_I am
+yoda knows
+crying on my keyboard
